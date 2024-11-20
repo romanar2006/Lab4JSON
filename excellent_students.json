@@ -1,0 +1,124 @@
+[ {
+  "excellentStudent" : true,
+  "surname" : "Архипов",
+  "name" : "Архип",
+  "patronymic" : "Архипович",
+  "gradebookNumber" : 1001,
+  "course" : 2,
+  "groupNumber" : 1,
+  "sessions" : [ {
+    "subject" : "Линал",
+    "sessionNumber" : 1,
+    "exams" : [ {
+      "studentId" : 1001,
+      "grade" : 9
+    }, {
+      "studentId" : 1002,
+      "grade" : 8
+    }, {
+      "studentId" : 1003,
+      "grade" : 6
+    }, {
+      "studentId" : 1004,
+      "grade" : 7
+    }, {
+      "studentId" : 1005,
+      "grade" : 9
+    } ]
+  }, {
+    "subject" : "Матан",
+    "sessionNumber" : 1,
+    "exams" : [ {
+      "studentId" : 1001,
+      "grade" : 9
+    }, {
+      "studentId" : 1002,
+      "grade" : 6
+    }, {
+      "studentId" : 1003,
+      "grade" : 10
+    }, {
+      "studentId" : 1004,
+      "grade" : 7
+    }, {
+      "studentId" : 1005,
+      "grade" : 8
+    } ]
+  }, {
+    "subject" : "Дискретка",
+    "sessionNumber" : 2,
+    "exams" : [ {
+      "studentId" : 1001,
+      "grade" : 9
+    }, {
+      "studentId" : 1002,
+      "grade" : 9
+    }, {
+      "studentId" : 1003,
+      "grade" : 10
+    }, {
+      "studentId" : 1004,
+      "grade" : 7
+    }, {
+      "studentId" : 1005,
+      "grade" : 9
+    } ]
+  }, {
+    "subject" : "Матан",
+    "sessionNumber" : 2,
+    "exams" : [ {
+      "studentId" : 1001,
+      "grade" : 9
+    }, {
+      "studentId" : 1002,
+      "grade" : 8
+    }, {
+      "studentId" : 1003,
+      "grade" : 9
+    }, {
+      "studentId" : 1004,
+      "grade" : 5
+    }, {
+      "studentId" : 1005,
+      "grade" : 9
+    } ]
+  }, {
+    "subject" : "Диффуры",
+    "sessionNumber" : 3,
+    "exams" : [ {
+      "studentId" : 1001,
+      "grade" : 9
+    }, {
+      "studentId" : 1002,
+      "grade" : 7
+    }, {
+      "studentId" : 1003,
+      "grade" : 10
+    }, {
+      "studentId" : 1004,
+      "grade" : 8
+    }, {
+      "studentId" : 1005,
+      "grade" : 9
+    } ]
+  }, {
+    "subject" : "Алгосы",
+    "sessionNumber" : 3,
+    "exams" : [ {
+      "studentId" : 1001,
+      "grade" : 9
+    }, {
+      "studentId" : 1002,
+      "grade" : 7
+    }, {
+      "studentId" : 1003,
+      "grade" : 10
+    }, {
+      "studentId" : 1004,
+      "grade" : 6
+    }, {
+      "studentId" : 1005,
+      "grade" : 9
+    } ]
+  } ]
+} ]
